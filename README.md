@@ -5,22 +5,9 @@
 
 ### Overview
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+This project explores the intersection of Mood Management Theory (MMT) and large language models (LLMs) to understand how AI can engage with and potentially influence human emotional states. MMT, developed by Dolf Zillmann in the 1980s, posits that people use media to regulate their mood, seeking content that aligns with their emotional needs based on factors like excitatory potential, absorption potential, semantic affinity, and hedonic valence. With the rise of AI-driven communication, this project examines how LLMs might incorporate MMT principles to provide more emotionally attuned responses, potentially transforming the way humans interact with technology. The paper includes a small-scale experiment that tests whether LLMs like Claude can generate responses consistent with MMT's predictions for different emotional states.
 
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
+[Click here for the paper](http://www.ur.ac.rw)
 ---
 
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
 
